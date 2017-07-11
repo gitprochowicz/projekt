@@ -3,4 +3,6 @@ $(document).ready(function () {
     console.log('stop');
 });
 
-11
+function asasasas(parameters) {
+    //asasassas
+}

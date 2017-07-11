@@ -8,12 +8,20 @@
 $(function(){
     
     function KolorStrony(){
-        $('body').css('background-color','blue');
     }
     
-    KolorStrony();
+//    KolorStrony();
+//    KolorStrony();
+//    KolorStrony();
+//    KolorStrony();
+//    KolorStrony();
+//    KolorStrony();
     
 });
+
+function  rafal(){
+    //asasasasas
+    ///asasas
  function Wiolawezpomoz(){
     
 }
