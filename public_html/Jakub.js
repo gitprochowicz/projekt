@@ -2,4 +2,6 @@ $(document).ready(function () {
     console.log("start");
 });
 
-11
+function asasasas(parameters) {
+    //asasassas
+}
