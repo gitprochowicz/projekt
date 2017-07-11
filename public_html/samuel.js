@@ -4,6 +4,8 @@
  * and open the template in the editor.
  */
 
-function asas(parameters) {
-    //as
-}
+
+$(function(){
+    alert('Witaj!!!');
+    
+});

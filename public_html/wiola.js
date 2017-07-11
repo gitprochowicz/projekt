@@ -22,4 +22,6 @@ $(function(){
 function  rafal(){
     //asasasasas
     ///asasas
+ function Wiolawezpomoz(){
+    
 }
